@@ -1,0 +1,25 @@
+- title: Bang a Gong
+  date: 2014-01-01
+  release_type: Demos
+  image: "./images/placeholder.jpg"
+  links:
+    - name: Reverbnation
+      url: https://www.reverbnation.com/WilmoreCo
+
+- title: Full Flight
+  date: 2018-01-01
+  release_type: Videos
+  image: "./images/placeholder.jpg"
+  links:
+    - name: Youtube
+      url: https://www.youtube.com/channel/UCz8u4FbC5wRAg57VrSUysyw
+
+- title: Live Releases
+  date: 2019-01-01
+  release_type: Videos
+  image: "./images/placeholder.jpg"
+  links:
+    - name: Facebook
+      url: https://www.facebook.com/pg/WilmoreCo/videos/?ref=page_internal
+    - name: Apple Music
+      url: https://music.apple.com

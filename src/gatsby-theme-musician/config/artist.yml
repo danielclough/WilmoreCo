@@ -1,0 +1,24 @@
+artist: 
+  name: Wilmore & Company
+  tagline: Rock - Acoustic Rock - Alternative Rock in Las Vegas, NV   
+seo_title: Wilmore & Company | Rock - Acoustic Rock - Alternative Rock in Las Vegas, NV  
+seo_description: Wilmore & Company | Rock - Acoustic Rock - Alternative Rock in Las Vegas, NV
+  # contact_twitter_username:
+  # contact_phone: 
+  # contact_email: 
+
+social:
+  - name: Facebook
+    url: https://facebook.com/WilmoreCo
+  - name: Instagram
+    url: https://instagram.com
+  - name: Twitter
+    url: https://twitter.com
+  - name: Youtube
+    url: https://youtube.com
+  - name: Spotify
+    url: https://spotify.com
+  - name: Reverbnation
+    url: https://www.reverbnation.com/WilmoreCo
+
+site_language: en
